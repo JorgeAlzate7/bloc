@@ -1,0 +1,24 @@
+h1{
+
+    color: brown;
+
+
+
+}
+
+#parrafo01 {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.img_centro{
+
+    margin: auto;
+    display: block;
+    width: 333;
+    border-radius: 4;
+
+
+
+}
